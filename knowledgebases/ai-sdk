@@ -1,0 +1,44 @@
+
+
+
+ui messages: https://ai-sdk.dev/docs/reference/ai-sdk-core/ui-message?utm_source=chatgpt.com
+
+
+
+
+AI SDK — UIMessage
+This explains the actual message shape your app is using now: id, role, metadata, and parts. This is probably the single most important document for your current bug. AI SDK UIMessage docs
+ui messages: https://ai-sdk.dev/docs/reference/ai-sdk-core/ui-message?utm_source=chatgpt.com
+
+
+AI SDK — Chatbot Message Persistence
+This is the one I would absolutely force the coding AI to read before it ever touches your chat database again. It covers how UIMessage should be stored and loaded and explicitly discusses validating persisted UI messages. AI SDK message persistence docs
+
+
+AI SDK — Chatbot / useChat
+This shows the intended parts-based rendering model and how messages move between frontend and backend. AI SDK chatbot docs AI SDK useChat docs
+
+
+AI SDK — ModelMessage
+Important because UIMessage and ModelMessage are not the same thing. Your code explicitly converts between them. The coding AI needs to understand that boundary instead of randomly treating them as interchangeable. AI SDK ModelMessage docs
+
+
+
+
+
+Yes. Here are the actual HTTPS links.
+
+AI SDK UIMessage:
+[https://ai-sdk.dev/docs/reference/ai-sdk-core/ui-message](https://ai-sdk.dev/docs/reference/ai-sdk-core/ui-message)
+
+AI SDK Message Persistence:
+[https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-message-persistence](https://ai-sdk.dev/docs/ai-sdk-ui/chatbot-message-persistence)
+
+AI SDK useChat:
+[https://ai-sdk.dev/docs/reference/ai-sdk-ui/use-chat](https://ai-sdk.dev/docs/reference/ai-sdk-ui/use-chat)
+
+AI SDK Chatbot Guide:
+[https://ai-sdk.dev/docs/ai-sdk-ui/chatbot](https://ai-sdk.dev/docs/ai-sdk-ui/chatbot)
+
+AI SDK ModelMessage:
+[https://ai-sdk.dev/docs/reference/ai-sdk-core/model-message](https://ai-sdk.dev/docs/reference/ai-sdk-core/model-message)
