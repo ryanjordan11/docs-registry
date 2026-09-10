@@ -13,6 +13,13 @@ This knowledge base currently includes documentation for:
 - AI SDK
 - TanStack
 - Neon
+- Convex
+- Stripe
+- Vercel
+- AIHubMix
+- Claude / Anthropic
+- OpenAI
+- OpenRouter
 
 Additional technologies may be added as the project grows.
 
@@ -48,6 +55,45 @@ The links and documentation references contained here are intended to be used as
 ### Neon
 
 - Neon Documentation: https://neon.com/docs
+
+### Convex
+
+- Convex Documentation: https://docs.convex.dev/home
+- Convex API Reference: https://docs.convex.dev/api/
+- Convex Quickstarts: https://docs.convex.dev/quickstart/overview
+
+### Stripe
+
+- Stripe Documentation: https://docs.stripe.com/
+- Stripe APIs: https://docs.stripe.com/apis
+- Stripe SDKs: https://docs.stripe.com/sdks
+- Stripe Quickstarts: https://docs.stripe.com/quickstarts
+
+### Vercel
+
+- Vercel Documentation: https://vercel.com/docs
+
+### AIHubMix
+
+- AIHubMix Documentation: https://docs.aihubmix.com/en/api/Aihubmix-Integration
+- AIHubMix Documentation Index for AI Agents: https://docs.aihubmix.com/llms.txt
+
+### Claude / Anthropic
+
+- Claude Developer Documentation: https://platform.claude.com/docs/en/home
+- Claude API Overview: https://platform.claude.com/docs/en/api/overview
+- Claude Get Started: https://platform.claude.com/docs/en/get-started
+
+### OpenAI
+
+- OpenAI Developer Documentation: https://platform.openai.com/docs
+- OpenAI Developer Quickstart: https://platform.openai.com/docs/quickstart
+
+### OpenRouter
+
+- OpenRouter Documentation: https://openrouter.ai/docs
+- OpenRouter Quickstart: https://openrouter.ai/docs/quickstart
+- OpenRouter Models Documentation: https://openrouter.ai/docs/guides/overview/models
 
 ## READ-ONLY REPOSITORY
 
@@ -104,6 +150,34 @@ Official documentation and references related to TanStack technologies used by t
 ### Neon
 
 Official Neon documentation and references related to PostgreSQL, database architecture, persistence, schemas, queries, and related database functionality.
+
+### Convex
+
+Official Convex documentation and references for its database, backend functions, APIs, client libraries, reactive queries, mutations, actions, and framework integrations.
+
+### Stripe
+
+Official Stripe documentation and references for payments, subscriptions, billing, APIs, SDKs, Checkout, webhooks, and related financial infrastructure.
+
+### Vercel
+
+Official Vercel documentation and references for deployments, hosting, domains, server infrastructure, storage, observability, CI/CD, and related platform functionality.
+
+### AIHubMix
+
+Official AIHubMix documentation and references for its unified model API, model routing, API configuration, supported providers, and integration patterns.
+
+### Claude / Anthropic
+
+Official Claude and Anthropic developer documentation and references for the Claude API, Messages API, SDKs, tools, models, streaming, and related platform functionality.
+
+### OpenAI
+
+Official OpenAI developer documentation and references for the OpenAI API, models, SDKs, tools, multimodal capabilities, streaming, and related platform functionality.
+
+### OpenRouter
+
+Official OpenRouter documentation and references for model access, API usage, routing, providers, model selection, SDKs, streaming, and related platform functionality.
 
 ## Core Principle
 
